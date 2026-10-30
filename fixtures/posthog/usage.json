@@ -1,0 +1,10 @@
+{
+  "cus_acme01": { "thisWeek": 210, "lastWeek": 40 },
+  "cus_bright01": { "thisWeek": 36, "lastWeek": 820 },
+  "cus_cedar01": { "thisWeek": 14, "lastWeek": 12 },
+  "cus_drift01": { "thisWeek": 95, "lastWeek": 0 },
+  "cus_ember01": { "thisWeek": 0, "lastWeek": 610 },
+  "cus_fallow01": { "thisWeek": 4, "lastWeek": 3 },
+  "cus_gray01": { "thisWeek": 410, "lastWeek": 150 },
+  "cus_harrow01": { "thisWeek": 190, "lastWeek": 540 }
+}

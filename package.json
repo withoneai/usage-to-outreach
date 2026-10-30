@@ -1,0 +1,27 @@
+{
+  "name": "usage-to-outreach",
+  "version": "1.0.0",
+  "description": "An AI agent for the sales-ops usage review: find the paying accounts whose product usage jumped or cratered this week, against Stripe's own subscription book, and have Claude draft the specific outreach each one deserves as a Gmail draft, never sent. Built on One.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.6.0",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}

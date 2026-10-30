@@ -1,0 +1,32 @@
+{
+  "cus_acme01": {
+    "headline": "Acme Robotics ran 210 actions last week, up from 40: a 425% jump on the Growth plan.",
+    "subject": "You're running a lot more through Acme Robotics' workspace",
+    "body": "Hi there,\n\nYour team ran 210 actions last week, up from 40 the week before. That is the kind of jump we usually see right before a team outgrows its current limits.\n\nWorth a 15-minute call to walk through what a Scale plan unlocks at that volume (higher rate limits, priority support)? If not, no action needed, this email is just a heads up.\n\n— The One team, success@withone.ai"
+  },
+  "cus_bright01": {
+    "headline": "Brightline Logistics dropped to 36 actions last week from 820: a 95.6% fall on the Scale plan.",
+    "subject": "Checking in on Brightline Logistics' workspace",
+    "body": "Hi there,\n\nWe noticed usage dropped from 820 actions the week before to 36 last week. Wanted to check in directly rather than guess: did something break on your end, did a workflow change, or did the person who was running this move teams?\n\nHappy to jump on a 15-minute call, or just reply here with what's going on. Either way, we would rather hear it from you than wonder.\n\n— The One team, success@withone.ai"
+  },
+  "cus_drift01": {
+    "headline": "Driftwood Media went from 0 actions to 95 last week: a new account coming alive on the Growth plan.",
+    "subject": "Driftwood Media's workspace is live",
+    "body": "Hi there,\n\nGreat to see your team running 95 actions last week after a quiet start. That is a real rollout, not a stray test.\n\nIf it is useful, we can do a quick 15-minute call on what teams at your usage level usually hit next (seats, rate limits). If you are just heads down shipping, carry on, this is only a heads up.\n\n— The One team, success@withone.ai"
+  },
+  "cus_ember01": {
+    "headline": "Emberlane Finance fell to 0 actions last week from 610: a full stop on the Scale plan.",
+    "subject": "Checking in on Emberlane Finance's workspace",
+    "body": "Hi there,\n\nYour workspace ran 610 actions the week before last and 0 last week. That is enough of a change that we wanted to ask directly rather than assume: did something break, did priorities shift, or did the person running this move on?\n\nA 15-minute call works if that is easier, or just reply here with what happened. We would genuinely like to know either way.\n\n— The One team, success@withone.ai"
+  },
+  "cus_gray01": {
+    "headline": "Grayridge Studio ran 410 actions last week, up from 150: a 173.3% jump on the Growth plan.",
+    "subject": "Grayridge Studio's usage is climbing fast",
+    "body": "Hi there,\n\n410 actions last week, up from 150 the week before: that is a big step up for a Growth plan. Nice to see.\n\nAt that pace, a Scale plan's higher rate limits and priority support tend to matter soon. Worth 15 minutes to look at what that would mean for your team? If now is not the time, no need to reply, just wanted you to know we noticed.\n\n— The One team, success@withone.ai"
+  },
+  "cus_harrow01": {
+    "headline": "Harrow & Vale fell to 190 actions last week from 540: a 64.8% drop on the Scale plan.",
+    "subject": "Checking in on Harrow & Vale's workspace",
+    "body": "Hi there,\n\nUsage dropped from 540 actions the week before to 190 last week. Wanted to check in rather than guess at the reason: did a workflow change, did something stop working on your side, or is the team just in a quieter stretch?\n\nIf it would help, we can do a 15-minute call, or you can just reply here with what is going on.\n\n— The One team, success@withone.ai"
+  }
+}
